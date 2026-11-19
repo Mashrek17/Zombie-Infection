@@ -1,0 +1,11 @@
+{
+  "name": "Zombie Infection",
+  "description": "Outdoor real-time GPS multiplayer survival game with 5-mile perimeter tracking, 2-minute survivor radar reveals, distinct Human \u0026 Zombie tactical roles, live leaderboard, and voice chat.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

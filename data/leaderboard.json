@@ -1,0 +1,62 @@
+[
+  {
+    "playerName": "Maya Chen",
+    "matchesPlayed": 14,
+    "wins": 10,
+    "totalInfections": 6,
+    "totalAssists": 12,
+    "bestSurvivalSeconds": 1200,
+    "totalDistanceMiles": 28.4,
+    "totalScore": 8420,
+    "favoriteRole": "runner",
+    "lastPlayedAt": 1795019464684
+  },
+  {
+    "playerName": "Marcus Vance",
+    "matchesPlayed": 11,
+    "wins": 8,
+    "totalInfections": 19,
+    "totalAssists": 4,
+    "bestSurvivalSeconds": 940,
+    "totalDistanceMiles": 24.1,
+    "totalScore": 7690,
+    "favoriteRole": "tank",
+    "lastPlayedAt": 1794933064684
+  },
+  {
+    "playerName": "Elena Rostova",
+    "matchesPlayed": 12,
+    "wins": 9,
+    "totalInfections": 3,
+    "totalAssists": 27,
+    "bestSurvivalSeconds": 1200,
+    "totalDistanceMiles": 19.7,
+    "totalScore": 7150,
+    "favoriteRole": "medic",
+    "lastPlayedAt": 1794846664684
+  },
+  {
+    "playerName": "Devon Brooks",
+    "matchesPlayed": 9,
+    "wins": 6,
+    "totalInfections": 14,
+    "totalAssists": 9,
+    "bestSurvivalSeconds": 1080,
+    "totalDistanceMiles": 22.8,
+    "totalScore": 6340,
+    "favoriteRole": "speedster",
+    "lastPlayedAt": 1794760264684
+  },
+  {
+    "playerName": "Liam OConnor",
+    "matchesPlayed": 8,
+    "wins": 5,
+    "totalInfections": 4,
+    "totalAssists": 18,
+    "bestSurvivalSeconds": 1140,
+    "totalDistanceMiles": 14.2,
+    "totalScore": 5480,
+    "favoriteRole": "defender",
+    "lastPlayedAt": 1794673864684
+  }
+]
